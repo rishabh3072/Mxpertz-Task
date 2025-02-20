@@ -1,0 +1,239 @@
+/* General container for the story details */
+.story-detail {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    /* General container for the story details */
+.story-detail {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    text-align: center; /* Align text to the center */
+  }
+  
+  body {
+    background-color: aliceblue;
+  }
+  
+  .story-detail h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .story-detail p {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  
+  .story-detail strong {
+    font-weight: bold;
+  }
+  
+  /* Story images styling */
+  .story-images {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center; /* Align images in the center */
+    margin-bottom: 20px;
+    position: relative;
+    left:-80px;
+  }
+  
+  .story-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+  }
+  
+  /* Adventure section styling */
+  .story-adventure {
+    background-color: #6d70dc;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    text-align: center; /* Align adventure section text to center */
+  }
+  
+  .story-adventure h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .content-image {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 20px;
+    border-radius: 8px;
+    position: relative;
+    left:-10px;
+
+  }
+  
+  /* Word Explore section styling */
+  .word-explore {
+    background-color: #6d70dc;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    text-align: center; /* Align word explore section text to center */
+  }
+  
+  .word-card {
+    margin-bottom: 20px;
+  }
+  
+  .word-card h4 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+  
+  .word-image {
+    max-width: 100px;
+    height: auto;
+    border-radius: 6px;
+    margin-top: 10px;
+    position: relative;
+    left:-10px;
+  }
+  
+  /* Brain Quest section styling */
+  .brain-quest {
+    background-color: #6d70dc;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center; /* Align brain quest section text to center */
+  }
+  
+  .quest-card {
+    margin-bottom: 20px;
+  }
+  
+  .quest-card p {
+    font-size: 1.2rem;
+  }
+  
+  .quest-card ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+    text-align: left; /* Keep bullet points left-aligned for readability */
+  }
+  
+  .quest-card ul li {
+    font-size: 1.1rem;
+  }
+  
+  }
+  body{
+    background-color: aliceblue;
+  }
+  .story-detail h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .story-detail p {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  .story-detail strong {
+    font-weight: bold;
+  }
+  
+  /* Story images styling */
+  .story-images {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    position: relative;
+    left:300px;
+  }
+  
+  .story-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Adventure section styling */
+  .story-adventure {
+    background-color: #6d70dc;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+  }
+  
+  .story-adventure h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .content-image {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  /* Word Explore section styling */
+  .word-explore {
+    background-color: #6d70dc;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+  }
+  
+  .word-card {
+    margin-bottom: 20px;
+  }
+  
+  .word-card h4 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+  
+  .word-image {
+    max-width: 100px;
+    height: auto;
+    border-radius: 6px;
+    margin-top: 10px;
+  }
+  
+  /* Brain Quest section styling */
+  .brain-quest {
+    background-color: #6d70dc;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .quest-card {
+    margin-bottom: 20px;
+  }
+  
+  .quest-card p {
+    font-size: 1.2rem;
+  }
+  
+  .quest-card ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .quest-card ul li {
+    font-size: 1.1rem;
+  }
+  .ans {
+    position: relative;
+    left:360px;
+  }
